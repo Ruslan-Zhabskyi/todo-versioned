@@ -48,3 +48,17 @@ Thumbs.db
 *.mov
 *.wmv
 
+# as per lab 12b
+
+.settings
+eclipse
+documentation
+tmp
+.classpath
+.project
+*.iml
+*.ipr
+*.iws
+
+
+
